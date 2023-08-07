@@ -5,7 +5,7 @@ from pathlib import Path
 import tkinter.ttk as ttk
 
 # Set up OpenAI
-openai.api_key = "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"
+openai.api_key = "key"
 
 class PythonTutor:
 
